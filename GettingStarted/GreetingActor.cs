@@ -2,6 +2,8 @@ using Proto;
 
 namespace GettingStarted;
 
+internal readonly record struct Greet(string Who);
+
 public class GreetingActor : IActor
 {
     public Task ReceiveAsync(IContext ctx)
