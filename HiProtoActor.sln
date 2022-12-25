@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiProtoActor", "HiProtoActor\HiProtoActor.csproj", "{64AADA59-1CFD-4B30-A90A-13199DB6459C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettingStarted", "GettingStarted\GettingStarted.csproj", "{B47242C5-5E49-4C69-9F55-26F1B0D7748D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{64AADA59-1CFD-4B30-A90A-13199DB6459C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64AADA59-1CFD-4B30-A90A-13199DB6459C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64AADA59-1CFD-4B30-A90A-13199DB6459C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B47242C5-5E49-4C69-9F55-26F1B0D7748D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B47242C5-5E49-4C69-9F55-26F1B0D7748D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B47242C5-5E49-4C69-9F55-26F1B0D7748D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B47242C5-5E49-4C69-9F55-26F1B0D7748D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
